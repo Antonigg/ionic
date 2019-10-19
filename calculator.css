@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    font-size: 150%;
+}
+
+.ac {
+    color: red;
+}
+
+.op {
+    color: #d3e5f7;
+    background-color: #1e6ebe;
+}
+
+.pantalla {
+    color: #11a81c;
+    background-color: #2d2e2f;
+}
